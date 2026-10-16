@@ -1,0 +1,7 @@
+{
+  "name": "마음 쉼터 — 진로상담사를 위한 심리 지지 AI",
+  "description": "감정 소진, 공감 피로, 자기 회의, 직업적 고립감을 따뜻하게 안아주는 진로상담사 전용 심리 지지 AI 챗봇 및 프롬프트 가이드 데모",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
